@@ -1,0 +1,21 @@
+,Missing Values
+Unnamed: 0,0
+X1,0
+age,0
+gender,0
+height,0
+weight,0
+steps,0
+hear_rate,0
+calories,0
+distance,0
+entropy_heart,0
+entropy_setps,0
+resting_heart,0
+corr_heart_steps,0
+norm_heart,0
+intensity_karvonen,0
+sd_norm_heart,0
+steps_times_distance,0
+device,0
+activity,0
